@@ -12,7 +12,7 @@ public class TablasMulticlipar {
 
 		for (tabla = 1; tabla <=20; tabla++) {
 
-			System.out.println("/n/ntabla del " + tabla);
+			System.out.println("\ntabla del " + tabla);
 			System.out.println("---------------------");
 			for (i = 1; i <=20; i++) {
 				System.out.println(tabla + " x " + i + " = "+tabla*i);
